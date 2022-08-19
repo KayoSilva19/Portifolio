@@ -160,4 +160,10 @@ h2 {
   .project {
     display: block;
   }
+
+  .project-image {
+    width: 30rem;
+    heigth: auto;
+  
+  }
  }
